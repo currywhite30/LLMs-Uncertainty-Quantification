@@ -1,5 +1,5 @@
-# LLMs-Hallucination-Reduction
-Exploring various methods to mitigate the hallucination of LLMs.
+# LLMs-Uncertainty-Quantification
+Exploring various methods to quantify and utilize the uncertainty of LLMs.
 
 ## 1. xxx
 
